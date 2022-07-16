@@ -1,8 +1,9 @@
 # py-dashboards
 ---
-[![Demo CountPages alpha](https://i.imgur.com/ICsrMgj.gif)](https://i.imgur.com/zqFdv3J.mp4)
+[![Proof of concept](https://i.imgur.com/ICsrMgj.gif)](https://i.imgur.com/zqFdv3J.mp4)
 
-[Proof of concept]()
+## Inspired by:
+![demo-quick](https://i.imgur.com/eLLlqi5.png)
 
 Py Stub repo for creating and exporting native py, parametrized interactive html visuals.
 
