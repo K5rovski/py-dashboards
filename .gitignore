@@ -1,0 +1,3 @@
+*.pyc
+.serverless-wsgi
+node_modules/
